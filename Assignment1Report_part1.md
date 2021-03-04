@@ -142,7 +142,7 @@ void Renderer::DrawLine(const glm::ivec2& p1, const glm::ivec2& p2, const glm::v
 
 #
 - Circle image 
-![Circle Image](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/2020-11-17(1).png)
+![Circle Image](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/2020-11-17(1).png)
 #
 - drawing of my own choice
-![FOX](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/2020-11-17%20(2)(1).png)
+![FOX](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/2020-11-17%20(2)(1).png)
