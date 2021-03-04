@@ -3,10 +3,10 @@
 ### 1:
 
 * mesh vertices:	
-![printvarts Image](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/printvarts.png)
+![printvarts Image](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/printvarts.png)
 
 * the vartices of each face		
-![printfaces Image](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/printfaces.png)
+![printfaces Image](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/printfaces.png)
 
 
 ### 2:
@@ -19,12 +19,12 @@ now  all the coordinates of the vertices are well placed inside the screen space
 
 ### 3:
 * the mesh image:	
-![mesh2.3](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/mesh2.3.png)	
+![mesh2.3](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/mesh2.3.png)	
 
 
 ### 4: 
 * GUI image:	
-![GUI Image](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/GUI%20image.png)
+![GUI Image](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/GUI%20image.png)
 
 we computed the transformation matrix according to all the transformation matrices:		
 transformation matrix= (Scale in the world frame)matrix * (Rotate around z axis in the world frame)matrix *  (Rotate around y axis in the world frame)matrix * (Rotate around x axis in the world frame)matrix * (Translate in the world frame)matrix *(Scale in the model frame)matrix * (Rotate around z axis in the model frame)matrix *  (Rotate around y axis in the model frame)matrix * (Rotate around x axis in the model frame)matrix * (Translate in the model frame)matrix
@@ -42,11 +42,11 @@ transformation matrix= (Scale in the world frame)matrix * (Rotate around z axis 
    
 ### 5:
    * translating in the model frame and then rotating in the world frame:
-   ![1img](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/1img.png)	
+   ![1img](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/1img.png)	
    
 ###### VS	
    * translating in the world frame and then rotating in the local frame:
-   ![2img](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/2img.png)
+   ![2img](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/2img.png)
    
    
    -its the same input for the two images, but we can see that the output is not the same.
