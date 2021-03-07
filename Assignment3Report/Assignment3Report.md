@@ -128,31 +128,31 @@ void Renderer::Render( Scene& scene)
 ### Implement Phong shading in the fragment shade:
 
 #### point light:
-![armadilo](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/armadilo.JPG)
+![armadilo](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/armadilo.JPG)
 #### parallel light:
-![anotherex](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/anotherex.png)
+![anotherex](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/anotherex.png)
 
-![horse](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/horse.JPG)
+![horse](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/horse.JPG)
 
 #### example for more than one light:
-![beethoven](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/beethoven.JPG)
+![beethoven](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/beethoven.JPG)
  
  #### more examples:
-![cowm9loba](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/cowm9loba.png)
-![m9lob](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/bem9lob.png)
+![cowm9loba](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/cowm9loba.png)
+![m9lob](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/bem9lob.png)
 
 ### texture mapping:
 #### plane texture:
 
-![teapot](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/teapot.JPG)
+![teapot](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/teapot.JPG)
 #### cylinder texture:
-![Cylindrical](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/Cylindrical.png)
+![Cylindrical](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/Cylindrical.png)
 
 ##### We can recognize the artifacts that are displayed under the pouring hose of the teapot.
 
 ### Toon shading:
 ##### toon shading with point light on the right of the model and closer than the model:
-![toonemapping1](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/toonemapping1.jpeg)
+![toonemapping1](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/toonemapping1.jpeg)
 
 ##### toon shading with point light on the edge of the model with 10 different layers of intensity.
-![toonemapping2](https://github.com/HaifaGraphicsCourses/computergraphics2021-fidaa/blob/master/toonemapping2.jpeg)
+![toonemapping2](https://github.com/fidaashkeer/computer-graphics-project/blob/main/images/toonemapping2.jpeg)
